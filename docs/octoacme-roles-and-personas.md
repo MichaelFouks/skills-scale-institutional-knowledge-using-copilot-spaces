@@ -75,6 +75,94 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Quality Assurance Lead
+
+**Role Summary:**  
+Leads overall test strategy, ensures the integration of quality gates, and oversees manual/automated QA activities.
+
+**Responsibilities**
+- Define and maintain quality standards and acceptance criteria
+- Create test plans and oversee test execution
+- Collaborate with Developers to ensure testability and coverage
+- Report QA status and escalated issues to PM and PdM
+
+**Interactions**
+- Works closely with Developers during feature implementation
+- Partners with PM for release sign-off
+- Provides feedback to PdM on usability/testability
+
+---
+
+## UX/UI Designer
+
+**Role Summary:**  
+Shapes user interfaces and experiences in line with the product vision and accessibility standards.
+
+**Responsibilities**
+- Produce wireframes, mockups, and prototypes
+- Conduct user research and usability tests
+- Ensure clarity in design handoffs to Developers
+- Provide design assets and documentation
+
+**Interactions**
+- Collaborates with PdM on product fit
+- Works with Developers during implementation
+- Reviews UI during demos and releases
+
+---
+
+## Engineering/Technical Lead
+
+**Role Summary:**  
+Leads technical design, ensures architecture and code standards, and mentors Developers.
+
+**Responsibilities**
+- Guide technical direction and architectural decisions
+- Conduct code/design reviews
+- Support estimation and resource planning
+- Advise PM/PdM on technical feasibility/tradeoffs
+
+**Interactions**
+- Syncs regularly with Developers
+- Escalates tech risks to PM
+- Advises PdM on technical implications
+
+---
+
+## Business Analyst
+
+**Role Summary:**  
+Gathers/clarifies requirements, manages documentation, ensures needs are traceable to deliverables.
+
+**Responsibilities**
+- Document requirements
+- Analyze processes
+- Map requirements to acceptance tests
+- Support UAT
+
+**Interactions**
+- Aligns with PdM/PM for prioritization
+- Liaises with Dev/QA for clarity
+
+---
+
+## Customer Support Liaison
+
+**Role Summary:**  
+Channels customer feedback post-release and ensures insights feed into improvement cycles.
+
+**Responsibilities**
+- Collect and synthesize feedback/incidents
+- Summarize top issues for the team
+- Participate in retrospectives
+
+**Interactions**
+- Works with PM for status/incident reports
+- Provides insights to PdM for roadmap planning
+
+---
+
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
